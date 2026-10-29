@@ -1,0 +1,40 @@
+:root {
+  --ifm-color-primary: #1f5fa8;
+  --ifm-color-primary-dark: #1c5697;
+  --ifm-color-primary-darker: #1a518f;
+  --ifm-color-primary-darkest: #164376;
+  --ifm-color-primary-light: #2268b9;
+  --ifm-color-primary-lighter: #246dc1;
+  --ifm-color-primary-lightest: #3a7fd0;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #6aa8ef;
+  --ifm-color-primary-dark: #4f98ec;
+  --ifm-color-primary-darker: #4190ea;
+  --ifm-color-primary-darkest: #1a78e2;
+  --ifm-color-primary-light: #85b8f2;
+  --ifm-color-primary-lighter: #93c0f3;
+  --ifm-color-primary-lightest: #bad7f7;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Tabelas largas (RACI, customização) rolam em vez de quebrar o layout */
+.markdown table {
+  display: block;
+  overflow-x: auto;
+  font-size: 0.9rem;
+}
+
+.markdown table th {
+  white-space: nowrap;
+}
+
+/* Diagramas mermaid centralizados */
+.docusaurus-mermaid-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--ifm-leading);
+}

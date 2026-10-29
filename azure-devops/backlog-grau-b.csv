@@ -1,0 +1,26 @@
+﻿ID,Work Item Type,Title 1,Title 2,Title 3,Iteration Path,Description,Tags
+,Epic,"Grau B, especificação, validação e publicação do processo",,,,"Transformar a proposta consolidada do Grau A no Processo Vértice de Desenvolvimento detalhado, validado e publicado no portal Docusaurus (Release 1.0).",Grau B
+,Feature,,"Sprint 4, Especificação das atividades, papéis e instrumentos (versão 0.4, T3)",,Processo de Software 2026-2\Sprint 4,,Grau B; Sprint 4
+,Product Backlog Item,,,Migrar a Wiki para o portal Docusaurus,Processo de Software 2026-2\Sprint 4,"Portal com as seções 00 a 03, diagramas e links preservados, publicado no GitHub Pages",Grau B; Sprint 4
+,Product Backlog Item,,,Especificar as 28 atividades por fase,Processo de Software 2026-2\Sprint 4,"Cada atividade com 10 campos e passos, catálogo AT01 a AT28",Grau B; Sprint 4
+,Product Backlog Item,,,Especificar os 11 papéis,Processo de Software 2026-2\Sprint 4,"Responsabilidades, autoridade, competências, artefatos e funções que não são papéis",Grau B; Sprint 4
+,Product Backlog Item,,,Completar os templates de todos os artefatos,Processo de Software 2026-2\Sprint 4,18 templates com cabeçalho comum e pacote para download,Grau B; Sprint 4
+,Product Backlog Item,,,Criar os checklists de apoio,Processo de Software 2026-2\Sprint 4,"CL01 a CL10: enquadramento, DoR, DoD, gates G1 a G4, revisão de código, segurança e desvio",Grau B; Sprint 4
+,Product Backlog Item,,,Registrar a rastreabilidade Grau A e B,Processo de Software 2026-2\Sprint 4,Mapeamento proposta para especificação e problemas para atividades,Grau B; Sprint 4
+,Product Backlog Item,,,Corrigir inconsistências do Grau A,Processo de Software 2026-2\Sprint 4,"Decisões DB01 a DB06 aplicadas na RACI, catálogo e customização",Grau B; Sprint 4
+,Product Backlog Item,,,Automatizar a verificação de consistência,Processo de Software 2026-2\Sprint 4,Script no pipeline de publicação,Grau B; Sprint 4
+,Product Backlog Item,,,Preparar e apresentar o T3,Processo de Software 2026-2\Sprint 4,Slides no Moodle e apresentação de 20 a 25 minutos,Grau B; Sprint 4
+,Feature,,"Sprint 5, Mecanismos de controle e evolução do processo (versão 0.5)",,Processo de Software 2026-2\Sprint 5,,Grau B; Sprint 5
+,Product Backlog Item,,,Definir a política de gerência de configuração,Processo de Software 2026-2\Sprint 5,"Branches, versionamento, linha de base, releases e versionamento do processo",Grau B; Sprint 5
+,Product Backlog Item,,,Definir a garantia da qualidade do processo,Processo de Software 2026-2\Sprint 5,"Auditoria de aderência, revisão de artefatos e não conformidades",Grau B; Sprint 5
+,Product Backlog Item,,,Detalhar o plano de medição,Processo de Software 2026-2\Sprint 5,"Consulta de cada indicador I01 a I07, coleta e painel",Grau B; Sprint 5
+,Product Backlog Item,,,Definir governança e melhoria contínua,Processo de Software 2026-2\Sprint 5,"Fórum de decisão, ciclo de mudança do processo e registro de desvios",Grau B; Sprint 5
+,Product Backlog Item,,,Criar diagramas por fase com IDs das atividades,Processo de Software 2026-2\Sprint 5,Fluxos do Grau A atualizados com AT01 a AT28,Grau B; Sprint 5
+,Feature,,"Sprint 6, Validação e publicação da Release 1.0",,Processo de Software 2026-2\Sprint 6,,Grau B; Sprint 6
+,Product Backlog Item,,,V1 Simular um cenário por categoria,Processo de Software 2026-2\Sprint 6,Percorrer as trilhas A a E preenchendo os templates,Grau B; Sprint 6
+,Product Backlog Item,,,V2 Ampliar a verificação automática,Processo de Software 2026-2\Sprint 6,Cobrir RACI e Matriz de Customização,Grau B; Sprint 6
+,Product Backlog Item,,,V3 Conduzir revisão por pares,Processo de Software 2026-2\Sprint 6,Outra equipe da turma revisa o portal com checklist,Grau B; Sprint 6
+,Product Backlog Item,,,V4 Aplicar questionário de aplicabilidade,Processo de Software 2026-2\Sprint 6,Avaliação de 1 a 5 por seção,Grau B; Sprint 6
+,Product Backlog Item,,,Tratar achados da validação,Processo de Software 2026-2\Sprint 6,Ajustes no processo e relatório de validação,Grau B; Sprint 6
+,Product Backlog Item,,,Publicar a Release 1.0,Processo de Software 2026-2\Sprint 6,Versão congelada no Docusaurus e registro de mudanças,Grau B; Sprint 6
+,Product Backlog Item,,,Preparar e apresentar a entrega final do T4,Processo de Software 2026-2\Sprint 6,Apresentação e entrega no Moodle,Grau B; Sprint 6
